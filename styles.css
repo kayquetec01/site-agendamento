@@ -130,7 +130,7 @@ select{
     @media (max-width:400px){
         .main{
             background-size: cover;
-            font-size: 14px;
+            font-size: 10px;
         }
     }
 

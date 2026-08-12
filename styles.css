@@ -124,12 +124,13 @@ select{
     .main{
         padding-right: 85px;
         background-size: cover;
-        font-size: 10px;
+       
     }
 
     @media (max-width:400px){
         .main{
             background-size: cover;
+            font-size: 14px;
         }
     }
 

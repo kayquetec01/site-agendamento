@@ -126,15 +126,17 @@ select{
         background-size: cover;
        
     }
+}
 
     @media (max-width:400px){
         .main{
             background-size: cover;
             font-size: 14px;
+            padding-left: -18px;
         }
     }
 
-}
+
 
 
 

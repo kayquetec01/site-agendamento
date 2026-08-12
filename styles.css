@@ -124,6 +124,7 @@ select{
     .main{
         padding-right: 85px;
         background-size: cover;
+        font-size: 14px;
     }
 
     @media (max-width:400px){

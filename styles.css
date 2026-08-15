@@ -124,8 +124,7 @@ select{
     .main{
         font-size: 35px;
         padding-right: 85px;
-        background-position: center;
-       
+        background-image: url(_.jpeg);      
     }
 }
 
@@ -133,7 +132,7 @@ select{
         .main{
             font-size: 25px;
             padding-left: -18px;
-            background-position: center;
+            background-image: url(_.jpeg);   
         }
     }
 

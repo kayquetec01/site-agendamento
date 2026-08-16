@@ -120,7 +120,7 @@ select{
     }
 }
 
-@media (max-width:450px){
+@media (max-width: 500px){
     .main{
         font-size: 25px;
         padding-right: 85px;
